@@ -13,5 +13,5 @@ int main(void)
 
 	write(2, p, strlen(p));
 
-	return (0);
+	return (1);
 }
