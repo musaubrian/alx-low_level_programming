@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints numbers to base 10
+ * main - print base 10 single digits
  *
  * Return: 0
  */
@@ -12,10 +12,10 @@ int main(void)
 
 	for (numb = 0; numb < 10; numb++)
 	{
-		printf("%d", numb);
+		putchar((numb % 10) + '0');
 	}
 
-	printf("\n");
+	putchar("\n");
 
 	return (0);
 }
