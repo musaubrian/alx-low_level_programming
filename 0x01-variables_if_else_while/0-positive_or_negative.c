@@ -1,6 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
-/*more headers goes her*/
+#include <stdio.h>
 
 /**
  * main - generates a random number
