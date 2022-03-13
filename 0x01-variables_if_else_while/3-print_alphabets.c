@@ -10,12 +10,12 @@ int main(void)
 {
 	char a;
 
-	for (a = 'a'; a <= 'z': a++)
+	for (a = 'a'; a <= 'z'; a++)
 	{
 		putchar(a);
 	}
 
-	for (a = 'A'; a <= 'Z': a++)
+	for (a = 'A'; a <= 'Z'; a++)
 	{
 		putchar(a);
 	}
