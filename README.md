@@ -9,3 +9,8 @@ Contains C programmes dealing with **variables** and **Conditional statements**:
 - `If` statements
 - `If - else` statements
 - `While` loops
+
+## [Nested loops](./0x02-functions_nested_loops)
+Contains `C` programmes dealing with nested loops
+
+## [Debugging](./0x03-debugging)
