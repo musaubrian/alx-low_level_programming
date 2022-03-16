@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 
 /**
  * print_to_98 - prints to 98 separated by a comma and space
@@ -12,20 +12,16 @@ void print_to_98(int n)
 	{
 		while (n > 98)
 		{
-			_putchar(n);
-			_putchar(',');
-			_putchar(' ');
-			n--;
+			printf("%d, ", n);
+			n++;
 		}
 	}
-	else if (n < 98)
+	else
 	{
 		while (n < 98)
 		{
-			_putchar(n);
-			_putchar(',');
-			_putchar(' ');
-			n++;
+			printf("%d, ", n);
+			n--;
 		}
 	}
 }
