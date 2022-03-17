@@ -3,15 +3,12 @@
 /**
  * main - checks if n is positive or negative
  *
- * @n: integer being checked
- *
  * Return: 0.
  */
 
 int main(void)
 {
 	int i;
-	i = 0;
 
 	positive_or_negative(i);
 
