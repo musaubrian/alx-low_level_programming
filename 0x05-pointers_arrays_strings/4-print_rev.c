@@ -6,15 +6,36 @@
  *
  * Return: string length
  */
+int _strlen(char *s)
+{
+	int i = 0;
+
+	while (*(s + i) != '\0')
+	{
+		i++;
+	}
+	return (i);
+}
+
+/**
+ * print_rev - Prints a string in reverse.
+ *
+ * @s: Set of characters
+ *
+ */
 
 void print_rev(char *s)
 {
-	int length = 0;
+	int l;
+	int i;
 
-	while (*(s + length) != '\0')
+	l = _strlen(s);
+	i = l;
+
+	while (i > 0)
 	{
-		length++;
+		i--;
+		_putchar(*(s + i));
 	}
-
-	return (length);
+	_putchar('\n');
 }
