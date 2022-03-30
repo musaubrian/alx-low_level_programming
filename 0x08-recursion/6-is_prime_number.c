@@ -15,7 +15,7 @@ int divis(int i, int j)
 		return (0);
 	}
 
-	else if ( j== i / 2)
+	else if (j == i / 2)
 	{
 		return (1);
 	}
