@@ -11,5 +11,6 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m);
 int str_len(const char *s);
 int power(int x, int y);
 int get_endianness(void);
+int _putchar(char c);
 
 #endif
