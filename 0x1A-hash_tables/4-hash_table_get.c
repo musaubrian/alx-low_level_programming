@@ -1,4 +1,4 @@
-#include "hahs_tables.h"
+#include "hash_tables.h"
 
 /**
  * hash_table_get - Retrieves a value associated with a key.
