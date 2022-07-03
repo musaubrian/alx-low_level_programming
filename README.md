@@ -34,24 +34,24 @@ projects dealing with malloc
 
 ## 10.0 [Preprocessor](./0x0D-preprocessor)
 
-##11.0 [Structures](./0x0E-structures_typedef)
+## 11.0 [Structures](./0x0E-structures_typedef)
 Projects dealing with structures in **C**
 
-##12.0 [Funtion Pointers](./0x0F-function_pointers)
+## 12.0 [Funtion Pointers](./0x0F-function_pointers)
 Projects on function pointers
 
-##13.0 [Variadic Functions](./0x10-variadic_functions)
+## 13.0 [Variadic Functions](./0x10-variadic_functions)
 
-##14.0 [Singly linked lists](./0x12-singly_linked_lists)
-###14.1 [More singly linked lists](./0x13-more_singly_linked_lists)
+## 14.0 [Singly linked lists](./0x12-singly_linked_lists)
+### 14.1 [More singly linked lists](./0x13-more_singly_linked_lists)
 
-##15.0 [Bit manipulatoin](./0x14-bit_manipulation)
+## 15.0 [Bit manipulatoin](./0x14-bit_manipulation)
 
-##16.0 [File Input/Output](./0x15-file_io)
+## 16.0 [File Input/Output](./0x15-file_io)
 Projects dealing with input and output in **C**
 
-##17.0 [Doubly linked lists](./0x17-doubly_linked_lists)
+## 17.0 [Doubly linked lists](./0x17-doubly_linked_lists)
 
-##18.0 [Dynamic Libraries](./0x18-dynamic_libraries)
+## 18.0 [Dynamic Libraries](./0x18-dynamic_libraries)
 
-##19.0 [Hash tables](./0x1A-hash_tables)
+## 19.0 [Hash tables](./0x1A-hash_tables)
