@@ -55,3 +55,5 @@ Projects dealing with input and output in **C**
 ## 18.0 [Dynamic Libraries](./0x18-dynamic_libraries)
 
 ## 19.0 [Hash tables](./0x1A-hash_tables)
+
+## 20.0 [Search algorithms](./0x1E-search_algorithms)
