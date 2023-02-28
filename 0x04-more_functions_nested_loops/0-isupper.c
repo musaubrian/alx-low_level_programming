@@ -1,18 +1,19 @@
 #include "main.h"
-#include <stdio.h>
+/*
+* _isupper: checks if an arg is uppercase or lowerecase
+* Return:
+*   1 if is upper
+*   0 if is lower
+*/
 
-/**
- * main - check the code.
- *
- * Return: Always 0.
- */
-int main(void)
+int _isupper(int c)
 {
-    char c;
-
-    c = 'A';
-    printf("%c: %d\n", c, _isupper(c));
-    c = 'a';
-    printf("%c: %d\n", c, _isupper(c));
-    return (0);
+    if ((c >= 'A') && (c <= 'Z'))
+    {
+            return(1);
+    }
+    if ((c >= 'a') && (c <= 'z'))
+    {
+        return (0);
+    }
 }
